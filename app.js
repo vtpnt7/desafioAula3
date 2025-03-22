@@ -12,7 +12,7 @@ linguagensDeProgramacao.push('GoLang');
 console.log(linguagensDeProgramacao);
 
 //4.Crie uma lista com 3 nomes e exiba no console apenas o primeiro elemento.
-let listaNomes = ['Victor', 'Bruna', 'Hugo'];
+let listaNomes = ['Victor', 'Joana', 'Hugo'];
 console.log(listaNomes[0]);
 
 //5. Crie uma lista com 3 nomes e exiba no console apenas o segundo elemento. 
